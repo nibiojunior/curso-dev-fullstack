@@ -1,0 +1,51 @@
+body{
+    background: #91919b;
+    font-family: 'Raleway', sans-serif;
+    color: #222222;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.foto{
+    width: 200px;
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 48%;
+    margin: 30px 30px 0;
+    box-shadow: 0px 0px 10px #e7dfdf;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: 386a75;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social{
+    width: 20px;
+}
+
+.github{
+    margin: 0 15px 0 15px;
+}
